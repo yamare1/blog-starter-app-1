@@ -9,8 +9,8 @@
 header {
   display: flex;
   justify-content: space-between;
-  background-color: rgb(247, 242, 242);
-  color: rgb(4, 70, 124);
+  background-color: rgb(4, 73, 70);
+  color: rgb(5, 83, 146);
   grid-column: 1 / span 2;
   padding: 10px 5px;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -23,6 +23,7 @@ form {
   align-items: flex-start;
   text-align: center;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: rgb(134, 241, 255);
 }
 
 form input,
@@ -42,11 +43,6 @@ article {
 nav {
   background-color: rgb(34, 221, 128);
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-
-#popcorn {
-  height: 200px;
-  width: 200px;
 }
 
 nav p:hover {
