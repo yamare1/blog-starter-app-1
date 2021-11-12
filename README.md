@@ -1,7 +1,13 @@
-# A Blog Starter App
+# Movie Review Blog
 
-This is a trivial blog app, started with create-react-app.
+This app features a collection of movie reviews from respected critics.
 
-It works entirely within memory, so reloads blow everything away except for the first two mock articles.
+First, sign in with your gmail account and then enjoy reading multiple reviews on the newest movies.
 
-This repo is designed for you to fork and extend with (1) better CSS and (2) a real back end, with authentication and a database.
+Visit the blog here:
+
+https://blog0-63587.web.app/
+
+or here:
+
+https://blog0-63587.firebaseapp.com/
