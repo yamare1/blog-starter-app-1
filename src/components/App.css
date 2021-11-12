@@ -9,8 +9,8 @@
 header {
   display: flex;
   justify-content: space-between;
-  background-color: rgb(4, 73, 70);
-  color: rgb(5, 83, 146);
+  background-color: rgb(187, 236, 234);
+  color: rgb(4, 86, 153);
   grid-column: 1 / span 2;
   padding: 10px 5px;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -33,6 +33,11 @@ form textarea {
   text-align: center;
 }
 
+#popcorn {
+  height: 200px;
+  width: 200px;
+}
+
 nav,
 article {
   height: 100%;
@@ -48,6 +53,10 @@ nav {
 nav p:hover {
   text-decoration: underline;
   cursor: pointer;
+}
+
+article {
+  background-color: rgb(50, 216, 245);
 }
 
 article .date {
